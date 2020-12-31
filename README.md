@@ -2,7 +2,7 @@ I am currently an associate professor (tenure track) at Fudan University. I am i
 
 
 ## preprints
-1. Indivisibility of Heegner cycles over Shimura curves and Selmer groups, preprint, 2020.
+1. [Indivisibility of Heegner cycles over Shimura curves and Selmer groups, preprint](https://arxiv.org/pdf/2006.11640.pdf), 2020.
 2. Arithmetic level raising on triple product of Shimura curves and Gross-Schoen diagonal cycles II: Bipartite Euler system, preprint, 2020.
 3. Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case, preprint, 2020.
 4. On the superspecial loci of orthogonal type Shimura varieties, preprint, 2020.
