@@ -14,6 +14,6 @@ Haining Wang
 2. On quaternionic unitary Rapoport-Zink spaces with parahoric level structures, IMRN, 2020.
 3. Deligne-Lusztig varieties and basic EKOR strata, Bull. Math. Can, 2020.
 4. On the Bruhat-Tits stratification of a quaternionic unitary Shimura variety, Math. Ann, 2019.
-5. Fixed points and homology of superelliptic Jacobians (with Jiangwei Xue and Chia-Fu Yu), 2014.
+5. Fixed points and homology of superelliptic Jacobians (with Jiangwei Xue and Chia-Fu Yu), Math. Zeitschrift, 2014.
 
 My Arxiv page: https://arxiv.org/a/wang_h_9.html
