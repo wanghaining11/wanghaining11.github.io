@@ -16,7 +16,7 @@ I am currently an associate professor (tenure track) at Fudan University. I am i
 2. [On quaternionic unitary Rapoport-Zink spaces with parahoric level structures](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa232/5900939?searchresult=1), IMRN, 2020.
 3. [Deligne-Lusztig varieties and basic EKOR strata](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/delignelusztig-varieties-and-basic-ekor-strata/ECFA05927B3BC4493CE644EA962985D0), Can. Math. Bulletin, 2020.
 4. [On the Bruhat-Tits stratification of a quaternionic unitary Shimura variety](https://link.springer.com/article/10.1007/s00208-019-01938-w), Math. Ann, 2019.
-5. Fixed points and homology of superelliptic Jacobians (with Jiangwei Xue and Chia-Fu Yu), Math. Zeitschrift, 2014.
+5. [Fixed points and homology of superelliptic Jacobians](https://link.springer.com/article/10.1007%2Fs00209-014-1311-9),with Jiangwei Xue and Chia-Fu Yu, Math. Zeitschrift, 2014.
 
 My Arxiv page: [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html)
 
