@@ -1,6 +1,5 @@
-I am currently an associate professor (tenure track) at Fudan University. 
+I am currently an associate professor (tenure track) at Fudan University. I am interested in number theory and related topics in representation theory and algebraic geometry.
 
-I am interested in number theory and related topics in representation theory and algebraic geometry.
 
 ## preprints
 1. Indivisibility of Heegner cycles over Shimura curves and Selmer groups, preprint, 2020.
