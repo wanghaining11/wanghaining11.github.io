@@ -1,20 +1,9 @@
 I am currently an associate professor (tenure track) at Fudan University. 
 
-# Papers/preprint
+## Papers/preprint
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Indivisibility of Heegner cycles over Shimura curves and Selmer groups, preprint, 2020.
+2. Arithmetic level raising on triple product of Shimura curves and Gross-Schoen diagonal cycles II: Bipartite Euler system, preprint, 2020.
 
 **Bold** and _Italic_ and `Code` text
 
