@@ -19,5 +19,3 @@ I am currently an associate professor (tenure track) at Fudan University. I am i
 5. [Fixed points and homology of superelliptic Jacobians](https://link.springer.com/article/10.1007%2Fs00209-014-1311-9),with Jiangwei Xue and Chia-Fu Yu, Math. Zeitschrift, 2014.
 
 My Arxiv page: [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html)
-
-My webpage at Shanghai center for mathematical sciences:  [http://www.scms.fudan.edu.cn/Data/View/1541.html](http://www.scms.fudan.edu.cn/Data/View/1541.html)
