@@ -9,7 +9,7 @@ I am an associate professor (tenure track) at [Shanghai center for mathematical 
 3. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case](https://arxiv.org/pdf/2004.00555.pdf), preprint, 2020.
 4. [On the superspecial loci of orthogonal type Shimura varieties](https://arxiv.org/pdf/1911.12283.pdf), preprint, 2019.
 5. Level lowering for GSp(4) and vanishing cycles on Siegel threefolds, plan to heavyly revise it, 2019.
-6. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), Preprint version of my PhD thesis, 2019.
+6. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), preprint version of my PhD thesis, 2019.
 
 ## papers
 1. [On the Bruhat-Tits stratification for GU(2,2) type Rapoport-Zink space: unramified case](https://link.springer.com/article/10.1007/s40316-019-00130-5), Ann. Math. Québec, 2020.
