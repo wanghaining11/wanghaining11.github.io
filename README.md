@@ -1,4 +1,4 @@
-I am currently an associate professor (tenure track) at Shanghai center for mathematical sciences in Fudan University. I am interested in number theory and related topics in representation theory and algebraic geometry.
+I am currently an associate professor (tenure track) at Fudan University. I am interested in number theory and related topics in representation theory and algebraic geometry.
 
 
 
@@ -18,4 +18,6 @@ I am currently an associate professor (tenure track) at Shanghai center for math
 4. [On the Bruhat-Tits stratification of a quaternionic unitary Shimura variety](https://link.springer.com/article/10.1007/s00208-019-01938-w), Math. Ann, 2019.
 5. Fixed points and homology of superelliptic Jacobians (with Jiangwei Xue and Chia-Fu Yu), Math. Zeitschrift, 2014.
 
-My Arxiv page: https://arxiv.org/a/wang_h_9.html
+My Arxiv page: [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html)
+
+My webpage at Shanghai center for mathematical sciences:  [http://www.scms.fudan.edu.cn/Data/View/1541.html](http://www.scms.fudan.edu.cn/Data/View/1541.html)
