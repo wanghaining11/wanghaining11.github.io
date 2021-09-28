@@ -18,4 +18,7 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 2. [On the Bruhat-Tits stratification of a quaternionic unitary Shimura variety](https://link.springer.com/article/10.1007/s00208-019-01938-w), Math. Ann, 2019.
 1. [Fixed points and homology of superelliptic Jacobians](https://link.springer.com/article/10.1007%2Fs00209-014-1311-9),with Jiangwei Xue and Chia-Fu Yu, Math. Zeitschrift, 2014.
 
+## Teaching
+Introduction to Algebraic Nunber theoery, 2021 Fall, Fudan University.
+
 
