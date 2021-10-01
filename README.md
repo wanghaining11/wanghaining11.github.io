@@ -19,5 +19,5 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 Introduction to Algebraic Nunber theoery, 2021 Fall, Fudan University.
 
 ## Seminars
-Representation of p-adic Groups:Parabolic inductions, organized by Kei-Yuan Chen.
+Representation of p-adic Groups:Parabolic Inductions, organized by Kei-Yuan Chen.
 
