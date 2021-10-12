@@ -19,5 +19,5 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
 
 ## Seminars
-Parabolic Inductions, organized by Kei-Yuan Chen.
+Parabolic Inductions, organized by Kei-Yuen Chan.
 
