@@ -16,7 +16,7 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 6. [Fixed points and homology of superelliptic Jacobians](https://link.springer.com/article/10.1007%2Fs00209-014-1311-9),with Jiangwei Xue and Chia-Fu Yu, Math. Zeitschrift, 2014.
 
 ## Teaching
-Introduction to Algebraic Nunber theoery, 2021 Fall, Fudan University.
+Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
 
 ## Seminars
 Representation of p-adic Groups:Parabolic Inductions, organized by Kei-Yuan Chen.
