@@ -19,4 +19,4 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
 
 ## Seminars
-Seminar on class field theory, 2022 Sring, Fudan University
+Seminar on class field theory, 2022 Spring, Fudan University
