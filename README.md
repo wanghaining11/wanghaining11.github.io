@@ -7,7 +7,7 @@ I am an associate professor (tenure track) at [Shanghai Center for Mathematical 
 
 ## Publications
 1. [Indivisibility of Heegner cycles over Shimura curves and Selmer groups](https://arxiv.org/pdf/2006.11640.pdf), to appear in J. Inst. Math. Jussieu, 2022.
-2. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case](https://arxiv.org/pdf/2004.00555.pdf), to appear in Algebra Number theory, 2021
+2. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case](https://arxiv.org/pdf/2004.00555.pdf), to appear in Algebra Number theory, 2022.
 3. [On the Bruhat-Tits stratification for GU(2,2) type Rapoport-Zink space: unramified case](https://link.springer.com/article/10.1007/s40316-019-00130-5), Ann. Math. Québec, 2020.
 4. [On quaternionic unitary Rapoport-Zink spaces with parahoric level structures](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa232/5900939?searchresult=1), Inter. Math. Res. Notices, 2020.
 5. [Deligne-Lusztig varieties and basic EKOR strata](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/delignelusztig-varieties-and-basic-ekor-strata/ECFA05927B3BC4493CE644EA962985D0), Can. Math. Bulletin, 2020.
