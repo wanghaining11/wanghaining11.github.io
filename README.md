@@ -1,4 +1,4 @@
-I am an associate professor (tenure track) at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree in December 2015 from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh. Before joining SCMS, I was a postdoc of Henri Darmon at McGill.
+I am an associate professor (tenure track) at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree in December 2015 from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh. Then I was a postdoc of Henri Darmon at McGill from 2016-2020.
 
 All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html). 
 
