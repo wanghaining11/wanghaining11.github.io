@@ -5,7 +5,7 @@ All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html]
 ## Preprints
 1. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen diagonal cycles II: Bipartite Euler system](https://arxiv.org/pdf/2004.14916.pdf), preprint, 2020.
 2. [On the superspecial loci of orthogonal type Shimura varieties](https://arxiv.org/pdf/1911.12283.pdf), preprint, 2019.
-3. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), preprint version of my PhD thesis, 2019.
+3. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), preprint, 2019.
 
 ## Publications
 1. [Indivisibility of Heegner cycles over Shimura curves and Selmer groups](https://arxiv.org/pdf/2006.11640.pdf), to appear in J. Inst. Math. Jussieu, 2022.
