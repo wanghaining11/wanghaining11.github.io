@@ -1,4 +1,6 @@
-I am an associate professor (tenure track) at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh, then I was a postdoc of Henri Darmon at McGill. All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html). 
+I am a tenure track associate professor at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh, then I was a postdoc of Henri Darmon at McGill. 
+
+All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html). 
 
 ## Preprints
 1. [Arithmetic level raising on certain quaternionic unitary Shimura variety](https://arxiv.org/pdf/2204.06976.pdf), preprint, 2022.
