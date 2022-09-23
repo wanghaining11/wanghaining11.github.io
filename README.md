@@ -1,6 +1,4 @@
-I am a tenure track associate professor at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh, then I was a postdoc of Henri Darmon at McGill. 
-
-All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html). 
+I am a tenure track associate professor at [Shanghai Center for Mathematical Sciences](http://www.scms.fudan.edu.cn/Data/View/1541.html) at [Fudan University](https://www.fudan.edu.cn/en/). I am interested in number theory and related topics in representation theory and algebraic geometry. I received my doctoral degree from Penn State under the supervison of Wen-Ching Winnie Li and Ming-Lun Hsieh, then I was a postdoc of Henri Darmon at McGill. All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html](https://arxiv.org/a/wang_h_9.html). 
 
 ## Preprints
 1. [Level lowering on Siegel modular threefold of paramodular level](https://arxiv.org/pdf/1910.07569.pdf), preprint, 2022.
@@ -23,4 +21,4 @@ All my works can be found on my Arxiv page:  [https://arxiv.org/a/wang_h_9.html]
 Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
 
 ## Seminars
-Seminar on class field theory, 2022 Spring, Fudan University
+Seminar on class field theory (cancelled), 2022 Spring, Fudan University
