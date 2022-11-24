@@ -8,7 +8,7 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 5. [On the superspecial loci of orthogonal type Shimura varieties](https://arxiv.org/pdf/1911.12283.pdf), preprint, 2019.
 
 ## Publications
-1. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), to appear in Ann. Math. Québec, 2022.
+1. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), Ann. Math. Québec, 2022.
 2. [Indivisibility of Heegner cycles over Shimura curves and Selmer groups](https://www.cambridge.org/core/journals/journal-of-the-institute-of-mathematics-of-jussieu/article/indivisibility-of-heegner-cycles-over-shimura-curves-and-selmer-groups/B5B3243095CB4DA007BF3415EB14B86B), J. Inst. Math. Jussieu, 2022.
 3. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case](https://arxiv.org/pdf/2004.00555.pdf), to appear in Algebra Number theory, 2022.
 4. [On the Bruhat-Tits stratification for GU(2,2) type Rapoport-Zink space: unramified case](https://link.springer.com/article/10.1007/s40316-019-00130-5), Ann. Math. Québec, 2020.
