@@ -18,8 +18,8 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 8. [Fixed points and homology of superelliptic Jacobians](https://link.springer.com/article/10.1007%2Fs00209-014-1311-9),with Jiangwei Xue and Chia-Fu Yu, Math. Zeitschrift, 2014.
 
 ## Teaching
-Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
-Introduction to Number theory, 2023 Spring, Fudan University.
+1. Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
+2. Introduction to Number theory, 2023 Spring, Fudan University.
 
 ## Seminars
 Seminar on class field theory (cancelled), 2022 Spring, Fudan University
