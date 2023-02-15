@@ -7,7 +7,7 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 3. [Deformations of rigid Galois representations and cohomology of certain quaternionic unitary Shimura variety](https://arxiv.org/pdf/2204.07807.pdf), preprint, 2022.
 
 ## Publications
-1. [On the superspecial loci of orthogonal type Shimura varieties](https://arxiv.org/pdf/1911.12283.pdf), to appear in international Journal of Number theory, 2023.
+1. [On the superspecial loci of orthogonal type Shimura varieties](https://arxiv.org/pdf/1911.12283.pdf), to appear in International Journal of Number theory, 2023.
 1. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles I: Ramified case](https://msp.org/ant/2022/16-10/ant-v16-n10-p02-p.pdf), Algebra and Number theory, 2023.
 2. [On the anticyclotomic Iwasawa main conjecture for Hilbert modular forms of parallel weights](https://arxiv.org/pdf/1909.12374.pdf), Ann. Math. Québec, 2022.
 3. [Indivisibility of Heegner cycles over Shimura curves and Selmer groups](https://www.cambridge.org/core/journals/journal-of-the-institute-of-mathematics-of-jussieu/article/indivisibility-of-heegner-cycles-over-shimura-curves-and-selmer-groups/B5B3243095CB4DA007BF3415EB14B86B), J. Inst. Math. Jussieu, 2022.
@@ -19,6 +19,8 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 
 ## Teaching
 Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
+Introduction to Number theory, 2023 Spring, Fudan University.
 
 ## Seminars
 Seminar on class field theory (cancelled), 2022 Spring, Fudan University
+
