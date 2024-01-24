@@ -3,7 +3,7 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 ## Preprints
 1. [Flach system of Jacquet--Langlands type and quaternionic period](https://arxiv.org/pdf/2304.03077.pdf), preprint, 2023.
 2. [Flach system on Quaternionic Hilbert--Blumenthal surfaces and distinguished periods](https://arxiv.org/pdf/2303.16703.pdf), preprint, 2023.
-3. [Level raising and bipartite Euler system of Gross-Kudla-Schoen diagonal cycles](https://arxiv.org/pdf/2004.14916.pdf), preprint, 2023.
+3. [Arithmetic level raising on triple product of Shimura curves and Gross-Schoen Diagonal cycles II: Bipartite Euler system](https://arxiv.org/pdf/2004.14916.pdf), preprint, 2023.
 4. [Level lowering on Siegel modular threefold of paramodular level](https://arxiv.org/pdf/1910.07569.pdf), preprint, 2022.
 5. [Arithmetic level raising on certain quaternionic unitary Shimura variety](https://arxiv.org/pdf/2204.06976.pdf), preprint, 2022.
 6. [Deformations of rigid Galois representations and cohomology of certain quaternionic unitary Shimura variety](https://arxiv.org/pdf/2204.07807.pdf), preprint, 2022.
