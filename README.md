@@ -20,7 +20,7 @@ I am a tenure track associate professor at [Shanghai Center for Mathematical Sci
 
 ## Teaching
 1. Introduction to Algebraic Nunber Theoery, 2021 Fall, Fudan University.
-2. Introduction to Number theory, 2023 Spring, Fudan University.
-3. Introduction to Automorphic representation, 2024 Spring, Fudan University.
-4. Introduction to modular forms, 2025 Spring, Fudan University.
+2. Introduction to Number Theory, 2023 Spring, Fudan University.
+3. Introduction to Automorphic Representations, 2024 Spring, Fudan University.
+4. Introduction to Modular Forms, 2025 Spring, Fudan University.
 
